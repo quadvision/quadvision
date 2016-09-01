@@ -1,10 +1,10 @@
-# quadvision
+# Quadvision
 
 This repository is related to the ruby gem "quadvision"
 
 Quadvision allows the creation of marketing campaigns and eshops for a main office to push marketing assets (online and offline) to its branches.
 
-Quadvision is constructed as a rails engine.
+Quadvision is built as a rails engine.
 
 To include it inside your project, just add the `gem "quadvision"` to your `Gemfile` and run `bundle`
 
